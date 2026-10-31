@@ -1,0 +1,11 @@
+Metric,Value
+Total Records (Rows),50000
+Total Attributes (Columns),13
+Exact Duplicate Rows,0
+Duplicate Transaction IDs,0
+Invalid / Unparseable Timestamps,0
+Date Coverage Start,2026-07-04 16:11:44
+Date Coverage End,2026-09-02 16:09:54
+Successful Transactions,"42,536 (85.07%)"
+Failed Transactions,"7,464 (14.93%)"
+Consistency Violations,0

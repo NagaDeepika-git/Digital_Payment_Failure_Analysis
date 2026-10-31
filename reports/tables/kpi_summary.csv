@@ -1,0 +1,19 @@
+Metric,Value
+total_transactions,20
+eligible_transactions,20
+successful_transactions,15
+failed_transactions,5
+failure_rate_pct,25.0
+success_rate_pct,75.0
+total_tpv_inr,29000.0
+failed_tpv_inr,11000.0
+successful_tpv_inr,18000.0
+avg_ticket_inr,1450.0
+median_ticket_inr,1450.0
+avg_latency_ms,1340.0
+median_latency_ms,1110.0
+p90_latency_ms,1455.0
+p95_latency_ms,1685.0
+p99_latency_ms,4497.0
+date_start,2026-08-01 10:00:00
+date_end,2026-08-01 21:22:00

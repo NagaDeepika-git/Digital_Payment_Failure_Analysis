@@ -1,0 +1,5 @@
+payment_method,total_transactions,successful_transactions,failed_transactions,failure_rate_pct,success_rate_pct,total_tpv_inr,failed_tpv_inr,avg_latency_ms,p95_latency_ms
+Debit Card,3.0,0.0,3.0,100.0,0.0,6300.0,6300.0,2450.0,4790.0
+NetBanking,2.0,0.0,2.0,100.0,0.0,4700.0,4700.0,1100.0,1118.0
+Credit Card,5.0,5.0,0.0,0.0,100.0,8500.0,0.0,1400.0,1490.0
+UPI,10.0,10.0,0.0,0.0,100.0,9500.0,0.0,1025.0,1227.5

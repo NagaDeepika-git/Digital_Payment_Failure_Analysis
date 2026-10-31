@@ -1,0 +1,4 @@
+amount_band,total_transactions,successful_transactions,failed_transactions,failure_rate_pct,success_rate_pct,total_tpv_inr,failed_tpv_inr,avg_latency_ms,p95_latency_ms
+Medium (1.5K-5K INR),9.0,4.0,5.0,55.56,44.44,18000.0,11000.0,1694.44,3720.0
+Low (500-1500 INR),10.0,10.0,0.0,0.0,100.0,10500.0,0.0,1075.0,1277.5
+Micro (< 500 INR),1.0,1.0,0.0,0.0,100.0,500.0,0.0,800.0,800.0

@@ -1,0 +1,10 @@
+Step,Metric,Value
+Raw Input Records,Row Count,20
+Raw Input Attributes,Column Count,13
+Exact Duplicate Rows,Removed,0
+Duplicate Transaction IDs,Removed,0
+Invalid Timestamps,Removed,0
+Invalid Amounts (<=0),Removed,0
+Invalid Latency (<0),Removed,0
+Final Cleaned Records,Row Count,20
+Data Retention Rate,Percentage,100.00%

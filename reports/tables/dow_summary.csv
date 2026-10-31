@@ -1,0 +1,2 @@
+day_of_week,total_transactions,successful_transactions,failed_transactions,failure_rate_pct,success_rate_pct,total_tpv_inr,failed_tpv_inr,avg_latency_ms,p95_latency_ms
+Saturday,20.0,15.0,5.0,25.0,75.0,29000.0,11000.0,1340.0,1685.0

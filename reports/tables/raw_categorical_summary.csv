@@ -1,0 +1,9 @@
+column,cardinality,null_count,distinct_categories
+Payment_Method,4,0,"NetBanking, UPI, Debit Card, Credit Card"
+Bank_Switch,5,0,"HDFC, Axis Bank, Kotak, SBI, ICICI"
+Merchant_Name,8,0,"Uber, Amazon, Flipkart, Myntra, JioMart, Swiggy, MakeMyTrip, Zomato"
+Merchant_Category,3,0,"Travel & Mobility, E-Commerce, Food & Grocery"
+Geography,6,0,"Delhi, Pune, Chennai, Mumbai, Bengaluru, Hyderabad"
+Transaction_Status,2,0,"SUCCESS, FAILED"
+Error_Code,6,0,"SUCCESS_00, ERR_INSUFFICIENT_FUNDS, ERR_GATEWAY_DROP, ERR_INVALID_PIN, ERR_AUTH_DECLINED, ERR_BANK_TIMEOUT"
+Failure_Reason,3,42536,"Customer Account Low Balance, Authentication / Network Failure, Bank Switch Unresponsive"

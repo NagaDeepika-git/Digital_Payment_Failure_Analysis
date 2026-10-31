@@ -1,0 +1,5 @@
+bank_switch,total_transactions,successful_transactions,failed_transactions,failure_rate_pct,success_rate_pct,total_tpv_inr,failed_tpv_inr,avg_latency_ms,p95_latency_ms
+ICICI,4.0,1.0,3.0,75.0,25.0,8200.0,6300.0,2212.5,4645.0
+Axis Bank,2.0,0.0,2.0,100.0,0.0,4700.0,4700.0,1100.0,1118.0
+HDFC,8.0,8.0,0.0,0.0,100.0,6800.0,0.0,975.0,1132.5
+SBI,6.0,6.0,0.0,0.0,100.0,9300.0,0.0,1325.0,1437.5

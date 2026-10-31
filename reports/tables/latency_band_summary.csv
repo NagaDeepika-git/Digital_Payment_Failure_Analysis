@@ -1,0 +1,4 @@
+latency_band,total_transactions,successful_transactions,failed_transactions,failure_rate_pct,success_rate_pct,total_tpv_inr,failed_tpv_inr,avg_latency_ms,p95_latency_ms
+Normal (800-1500ms),18.0,14.0,4.0,22.22,77.78,26500.0,9000.0,1155.56,1457.5
+Critical (>3000ms),1.0,0.0,1.0,100.0,0.0,2000.0,2000.0,5200.0,5200.0
+Fast (<800ms),1.0,1.0,0.0,0.0,100.0,500.0,0.0,800.0,800.0

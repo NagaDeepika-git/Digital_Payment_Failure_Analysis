@@ -1,0 +1,10 @@
+segment,category,sample_size,failed_count,failure_rate_pct,ci_lower_95_pct,ci_upper_95_pct
+Overall Platform,All,20,5,25.0,11.19,46.87
+Bank Switch,Axis Bank,2,2,100.0,34.24,100.0
+Bank Switch,HDFC,8,0,0.0,0.0,32.44
+Bank Switch,ICICI,4,3,75.0,30.06,95.44
+Bank Switch,SBI,6,0,0.0,0.0,39.03
+Payment Method,Credit Card,5,0,0.0,0.0,43.45
+Payment Method,Debit Card,3,3,100.0,43.85,100.0
+Payment Method,NetBanking,2,2,100.0,34.24,100.0
+Payment Method,UPI,10,0,0.0,0.0,27.75

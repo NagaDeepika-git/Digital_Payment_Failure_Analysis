@@ -1,0 +1,14 @@
+column,dtype,missing_count,missing_percent
+Transaction_id,str,0,0.0
+Customer_ID,str,0,0.0
+Transaction_Timestamp,str,0,0.0
+Payment_Method,str,0,0.0
+Bank_Switch,str,0,0.0
+Merchant_Name,str,0,0.0
+Merchant_Category,str,0,0.0
+Geography,str,0,0.0
+Transaction_Amount,float64,0,0.0
+Transaction_Status,str,0,0.0
+Error_Code,str,0,0.0
+Failure_Reason,str,42536,85.07
+Latency_ms,int64,0,0.0

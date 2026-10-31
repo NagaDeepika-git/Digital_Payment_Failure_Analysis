@@ -1,0 +1,6 @@
+failure_reason,error_code,failed_count,failed_tpv_inr,avg_latency_ms,p95_latency_ms,share_of_failures_pct,share_of_platform_pct
+Authentication / Network Failure,ERR_AUTH_DECLINED,1,2200.0,1050.0,1050.0,20.0,5.0
+Authentication / Network Failure,ERR_GATEWAY_DROP,1,2400.0,1080.0,1080.0,20.0,5.0
+Authentication / Network Failure,ERR_INVALID_PIN,1,2300.0,1120.0,1120.0,20.0,5.0
+Bank Switch Unresponsive,ERR_BANK_TIMEOUT,1,2000.0,5200.0,5200.0,20.0,5.0
+Customer Account Low Balance,ERR_INSUFFICIENT_FUNDS,1,2100.0,1100.0,1100.0,20.0,5.0

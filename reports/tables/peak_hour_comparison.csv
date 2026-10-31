@@ -1,0 +1,2 @@
+bank_switch,peak_total,peak_failed,peak_avg_latency,peak_p95_latency,peak_failure_rate_pct,offpeak_total,offpeak_failed,offpeak_avg_latency,offpeak_p95_latency,offpeak_failure_rate_pct,failure_rate_delta_pct,latency_delta_ms
+SBI,2,0,1325.0,1347.5,0.0,4,0,1325.0,1442.5,0.0,0.0,0.0
